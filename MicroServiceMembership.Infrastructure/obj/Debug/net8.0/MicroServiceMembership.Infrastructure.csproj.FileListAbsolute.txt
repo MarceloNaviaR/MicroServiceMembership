@@ -1,0 +1,17 @@
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroServiceMembership.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroServiceMembership.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroServiceMembership.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroServiceMembership.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroServiceMembership.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\bin\Debug\net8.0\MicroServiceMembership.Infrastructure.deps.json
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\bin\Debug\net8.0\MicroServiceMembership.Infrastructure.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\bin\Debug\net8.0\MicroServiceMembership.Infrastructure.pdb
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\bin\Debug\net8.0\MicroserviceMembership.Application.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\bin\Debug\net8.0\MicroserviceMembership.Domain.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\bin\Debug\net8.0\MicroserviceMembership.Application.pdb
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\bin\Debug\net8.0\MicroserviceMembership.Domain.pdb
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroSer.5319D028.Up2Date
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroServiceMembership.Infrastructure.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\refint\MicroServiceMembership.Infrastructure.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\MicroServiceMembership.Infrastructure.pdb
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Infrastructure\obj\Debug\net8.0\ref\MicroServiceMembership.Infrastructure.dll

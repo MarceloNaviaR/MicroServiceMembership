@@ -1,0 +1,15 @@
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroServiceMembership.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroServiceMembership.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroServiceMembership.Application.AssemblyInfo.cs
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroServiceMembership.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\bin\Debug\net8.0\MicroServiceMembership.Application.deps.json
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\bin\Debug\net8.0\MicroServiceMembership.Application.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\bin\Debug\net8.0\MicroServiceMembership.Application.pdb
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\bin\Debug\net8.0\MicroServiceMembership.Domain.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\bin\Debug\net8.0\MicroServiceMembership.Domain.pdb
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroServiceMembership.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroSer.B12D0956.Up2Date
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroServiceMembership.Application.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\refint\MicroServiceMembership.Application.dll
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\MicroServiceMembership.Application.pdb
+C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership.Application\obj\Debug\net8.0\ref\MicroServiceMembership.Application.dll

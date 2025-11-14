@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+	</ItemGroup>
+
+	<!-- *** ESTA ES LA SECCIÓN QUE FALTA *** -->
+	<!-- Le dice a este proyecto que depende del código de Application y de Infrastructure -->
+	<ItemGroup>
+		<ProjectReference Include="..\MicroserviceMembership.Application\MicroserviceMembership.Application.csproj" />
+		<ProjectReference Include="..\MicroserviceMembership.Infrastructure\MicroserviceMembership.Infrastructure.csproj" />
+	</ItemGroup>
+
+</Project>
