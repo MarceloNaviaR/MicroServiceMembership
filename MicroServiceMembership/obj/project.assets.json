@@ -812,23 +812,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\MicroServiceMembership\\MicroServiceMembership\\MicroServiceMembership.csproj",
+      "projectUniqueName": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\MicroServiceMembership.csproj",
       "projectName": "MicroServiceMembership",
-      "projectPath": "C:\\Users\\Asus\\Documents\\MicroServiceMembership\\MicroServiceMembership\\MicroServiceMembership.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\MicroServiceMembership\\MicroServiceMembership\\obj\\",
+      "projectPath": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\MicroServiceMembership.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -837,18 +837,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\Documents\\MicroServiceMembership\\MicroserviceMembership.Application\\MicroserviceMembership.Application.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Documents\\MicroServiceMembership\\MicroserviceMembership.Application\\MicroserviceMembership.Application.csproj"
+            "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroserviceMembership.Application\\MicroserviceMembership.Application.csproj": {
+              "projectPath": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroserviceMembership.Application\\MicroserviceMembership.Application.csproj"
             },
-            "C:\\Users\\Asus\\Documents\\MicroServiceMembership\\MicroserviceMembership.Infrastructure\\MicroserviceMembership.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Documents\\MicroServiceMembership\\MicroserviceMembership.Infrastructure\\MicroserviceMembership.Infrastructure.csproj"
+            "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroserviceMembership.Infrastructure\\MicroserviceMembership.Infrastructure.csproj": {
+              "projectPath": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroserviceMembership.Infrastructure\\MicroserviceMembership.Infrastructure.csproj"
             }
           }
         }
@@ -893,7 +892,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
