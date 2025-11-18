@@ -41,3 +41,47 @@ C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership\obj\Debug\
 C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.pdb
 C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.genruntimeconfig.cache
 C:\Users\Asus\Documents\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\ref\MicroServiceMembership.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\appsettings.Development.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\appsettings.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.staticwebassets.endpoints.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.exe
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.deps.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.runtimeconfig.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.pdb
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\Dapper.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\Npgsql.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.Application.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.Domain.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.Infrastructure.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.Application.pdb
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.Infrastructure.pdb
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\bin\Debug\net8.0\MicroServiceMembership.Domain.pdb
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.csproj.AssemblyReference.cache
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.AssemblyInfoInputs.cache
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.AssemblyInfo.cs
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.sourcelink.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\scopedcss\bundle\MicroServiceMembership.styles.css
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\staticwebassets.build.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\staticwebassets.development.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroSer.1EC6DB48.Up2Date
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\refint\MicroServiceMembership.dll
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.pdb
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\MicroServiceMembership.genruntimeconfig.cache
+D:\Arquitectura de Soft\MicroServiceMembership\MicroServiceMembership\obj\Debug\net8.0\ref\MicroServiceMembership.dll

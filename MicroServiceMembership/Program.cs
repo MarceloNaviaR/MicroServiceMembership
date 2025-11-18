@@ -1,4 +1,5 @@
-using MicroserviceMembership.Infrastructure.DependencyInjection;
+using MicroserviceMembership.Domain.Ports;
+using MicroserviceMembership.Infrastructure.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,10 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+Dapper.DefaultTypeMap.MatchNamesWithUnderscores = true;
 // Llama al método de extensión para registrar las dependencias del módulo
-builder.Services.AddMembershipModule();
-
+builder.Services.AddScoped<IMembershipRepository, MembershipRepository>();
 var app = builder.Build();
 
 // 2. PIPELINE HTTP

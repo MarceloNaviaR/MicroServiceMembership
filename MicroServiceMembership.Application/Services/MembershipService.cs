@@ -20,6 +20,9 @@ namespace MicroserviceMembership.Application.Services
             var nameError = MembershipValidationRules.ValidateName(membership.Name);
             if (nameError != null) return Result<int>.Failure(nameError);
 
+            var descriptionError = MembershipValidationRules.ValidateDescription(membership.Description);
+            if (descriptionError != null) return Result<int>.Failure(descriptionError);
+
             var priceError = MembershipValidationRules.ValidatePrice(membership.Price);
             if (priceError != null) return Result<int>.Failure(priceError);
 
@@ -28,11 +31,6 @@ namespace MicroserviceMembership.Application.Services
 
             membership.CreatedAt = DateTime.UtcNow;
             membership.CreatedBy = "user_placeholder"; // Reemplazar con lógica de usuario real
-            foreach (var discipline in membership.Disciplines)
-            {
-                discipline.CreatedAt = DateTime.UtcNow;
-                discipline.CreatedBy = "user_placeholder";
-            }
 
             var newId = await _membershipRepository.AddAsync(membership);
             return Result<int>.Success(newId);
@@ -42,6 +40,15 @@ namespace MicroserviceMembership.Application.Services
         {
             var nameError = MembershipValidationRules.ValidateName(membership.Name);
             if (nameError != null) return Result.Failure(nameError);
+
+            var descriptionError = MembershipValidationRules.ValidateDescription(membership.Description);
+            if (descriptionError != null) return Result<int>.Failure(descriptionError);
+
+            var priceError = MembershipValidationRules.ValidatePrice(membership.Price);
+            if (priceError != null) return Result<int>.Failure(priceError);
+
+            var sessionsError = MembershipValidationRules.ValidateSessions(membership.MonthlySessions);
+            if (sessionsError != null) return Result<int>.Failure(sessionsError);
 
             var existingMembership = await _membershipRepository.GetByIdAsync(membership.Id);
             if (existingMembership is null) return Result.Failure($"No se encontró la membresía con ID {membership.Id}.");

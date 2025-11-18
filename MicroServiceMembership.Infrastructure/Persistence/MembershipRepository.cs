@@ -1,8 +1,5 @@
-﻿// *** ESTAS LÍNEAS SOLUCIONAN TODOS LOS ERRORES DE CÓDIGO ***
-using Dapper;
+﻿using Dapper;
 using Npgsql;
-
-// Usings para tus propias clases y para la configuración
 using MicroserviceMembership.Domain.Entities;
 using MicroserviceMembership.Domain.Ports;
 using Microsoft.Extensions.Configuration;
@@ -27,15 +24,12 @@ namespace MicroserviceMembership.Infrastructure.Persistence
             using var transaction = connection.BeginTransaction();
             try
             {
-                var sqlMembership = @"INSERT INTO public.memberships (name, price, description, monthly_sessions, created_at, created_by) VALUES (@Name, @Price, @Description, @MonthlySessions, @CreatedAt, @CreatedBy) RETURNING id;";
+                var sqlMembership = @"
+                    INSERT INTO public.memberships 
+                    (name, price, description, monthly_sessions, created_at, created_by) 
+                    VALUES (@Name, @Price, @Description, @MonthlySessions, @CreatedAt, @CreatedBy) 
+                    RETURNING id;";
                 var membershipId = await connection.ExecuteScalarAsync<int>(sqlMembership, membership, transaction);
-
-                foreach (var discipline in membership.Disciplines)
-                {
-                    discipline.MembershipId = membershipId;
-                    var sqlDiscipline = @"INSERT INTO public.membership_disciplines (membership_id, discipline_id, discipline_name, created_at, created_by) VALUES (@MembershipId, @DisciplineId, @DisciplineName, @CreatedAt, @CreatedBy);";
-                    await connection.ExecuteAsync(sqlDiscipline, discipline, transaction);
-                }
 
                 transaction.Commit();
                 return membershipId;
@@ -51,33 +45,59 @@ namespace MicroserviceMembership.Infrastructure.Persistence
         {
             using IDbConnection connection = new NpgsqlConnection(_connectionString);
             var sql = @"
-                SELECT m.*, md.*
-                FROM public.memberships m
-                LEFT JOIN public.membership_disciplines md ON m.id = md.membership_id
-                WHERE m.id = @Id;";
-
-            var membershipDictionary = new Dictionary<int, Membership>();
-
-            var memberships = await connection.QueryAsync<Membership, MembershipDiscipline, Membership>(
-                sql,
-                (membership, discipline) =>
-                {
-                    if (!membershipDictionary.TryGetValue(membership.Id, out var currentMembership))
-                    {
-                        currentMembership = membership;
-                        membershipDictionary.Add(currentMembership.Id, currentMembership);
-                    }
-                    if (discipline != null) { currentMembership.Disciplines.Add(discipline); }
-                    return currentMembership;
-                },
-                new { Id = id },
-                splitOn: "id");
-
-            return memberships.FirstOrDefault();
+                SELECT id, 
+                       name, 
+                       price, 
+                       description, 
+                       monthly_sessions AS MonthlySessions, 
+                       created_at AS CreatedAt, 
+                       created_by AS CreatedBy, 
+                       last_modification AS LastModification, 
+                       last_modified_by AS LastModifiedBy
+                FROM public.memberships 
+                WHERE id = @Id;";
+            return await connection.QuerySingleOrDefaultAsync<Membership>(sql, new { Id = id });
         }
 
-        public Task<bool> UpdateAsync(Membership membership) => throw new NotImplementedException();
-        public Task<IEnumerable<Membership>> GetAllAsync() => throw new NotImplementedException();
-        public Task<bool> DeleteAsync(int id) => throw new NotImplementedException();
+        public async Task<IEnumerable<Membership>> GetAllAsync()
+        {
+            using IDbConnection connection = new NpgsqlConnection(_connectionString);
+            var sql = @"
+                SELECT id, 
+                       name, 
+                       price, 
+                       description, 
+                       monthly_sessions AS MonthlySessions, 
+                       created_at AS CreatedAt, 
+                       created_by AS CreatedBy, 
+                       last_modification AS LastModification, 
+                       last_modified_by AS LastModifiedBy
+                FROM public.memberships;";
+            return await connection.QueryAsync<Membership>(sql);
+        }
+
+        public async Task<bool> UpdateAsync(Membership membership)
+        {
+            using IDbConnection connection = new NpgsqlConnection(_connectionString);
+            var sql = @"
+                UPDATE public.memberships SET 
+                    name = @Name, 
+                    price = @Price, 
+                    description = @Description, 
+                    monthly_sessions = @MonthlySessions, 
+                    last_modification = @LastModification, 
+                    last_modified_by = @LastModifiedBy 
+                WHERE id = @Id;";
+            var affectedRows = await connection.ExecuteAsync(sql, membership);
+            return affectedRows > 0;
+        }
+
+        public async Task<bool> DeleteAsync(int id)
+        {
+            using IDbConnection connection = new NpgsqlConnection(_connectionString);
+            var sql = "DELETE FROM public.memberships WHERE id = @Id;";
+            var affectedRows = await connection.ExecuteAsync(sql, new { Id = id });
+            return affectedRows > 0;
+        }
     }
 }

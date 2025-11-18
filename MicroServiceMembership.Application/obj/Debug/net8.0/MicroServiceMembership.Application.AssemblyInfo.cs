@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroServiceMembership.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6f3e81bd828610f4e2421c7532080bb494fddb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e02d5d75030a4802fc5535f2af2c907971a1703")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroServiceMembership.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroServiceMembership.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

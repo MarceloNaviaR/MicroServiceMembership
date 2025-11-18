@@ -5,30 +5,17 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Memberships/{id}": {
+    "/api/Memberships": {
       "get": {
         "tags": [
           "Memberships"
-        ],
-        "parameters": [
-          {
-            "name": "id",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
         ],
         "responses": {
           "200": {
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Memberships": {
+      },
       "post": {
         "tags": [
           "Memberships"
@@ -52,6 +39,90 @@
             }
           }
         },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Memberships/{id}": {
+      "get": {
+        "tags": [
+          "Memberships"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Memberships"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Membership"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Membership"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Membership"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Memberships"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -84,52 +155,6 @@
           "monthlySessions": {
             "type": "integer",
             "format": "int32"
-          },
-          "disciplines": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/MembershipDiscipline"
-            },
-            "nullable": true
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "createdBy": {
-            "type": "string",
-            "nullable": true
-          },
-          "lastModification": {
-            "type": "string",
-            "format": "date-time",
-            "nullable": true
-          },
-          "lastModifiedBy": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "MembershipDiscipline": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "membershipId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "disciplineId": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "disciplineName": {
-            "type": "string",
-            "nullable": true
           },
           "createdAt": {
             "type": "string",

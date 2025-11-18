@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "D:\\Arquitectura de Soft\\MicroServiceMembership\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|solutionrelative:microservicemembership\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\rules\\membershipvalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\rules\\membershipvalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|solutionrelative:microservicemembership\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|solutionrelative:microservicemembership\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|solutionrelative:microservicemembership\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership\\microservicemembership.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|solutionrelative:microservicemembership\\microservicemembership.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\entities\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\entities\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FA793C-8AF9-40AA-983B-12320C9A3314}|MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.infrastructure\\persistence\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FA793C-8AF9-40AA-983B-12320C9A3314}|MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj|solutionrelative:microservicemembership.infrastructure\\persistence\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\ports\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\ports\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.application\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|solutionrelative:microservicemembership.application\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11FA793C-8AF9-40AA-983B-12320C9A3314}|MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.infrastructure\\persistence\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11FA793C-8AF9-40AA-983B-12320C9A3314}|MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj|solutionrelative:microservicemembership.infrastructure\\persistence\\membershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.application\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|solutionrelative:microservicemembership.application\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\entities\\membershipdiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\entities\\membershipdiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,34 +67,6 @@
       "RelativeMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|solutionrelative:microservicemembership\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{28DE24D8-7CD2-4767-9DF0-973B1BF2AB62}|MicroServiceMembership\\MicroServiceMembership.csproj|solutionrelative:microservicemembership\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11FA793C-8AF9-40AA-983B-12320C9A3314}|MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.infrastructure\\dependencyinjection\\mmebershipmoduleservicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11FA793C-8AF9-40AA-983B-12320C9A3314}|MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj|solutionrelative:microservicemembership.infrastructure\\dependencyinjection\\mmebershipmoduleservicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\rules\\membershipvalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\rules\\membershipvalidationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\ports\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\ports\\imembershiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\entities\\membershipdiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\entities\\membershipdiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.domain\\entities\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C09B1099-84A0-42A6-A8D6-46F981CABD23}|MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj|solutionrelative:microservicemembership.domain\\entities\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.application\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|solutionrelative:microservicemembership.application\\interfaces\\imembershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|d:\\arquitectura de soft\\microservicemembership\\microservicemembership.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E21F773B-DD1E-4D99-B5F9-9BA78C78910A}|MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj|solutionrelative:microservicemembership.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,48 +94,149 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\.gitignore",
-              "RelativeDocumentMoniker": "MicroServiceMembership\\.gitignore",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\.gitignore",
-              "RelativeToolTip": "MicroServiceMembership\\.gitignore",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAQwG4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-18T14:47:48.639Z",
+              "DocumentIndex": 4,
+              "Title": "MicroServiceMembership",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\MicroServiceMembership.csproj",
+              "RelativeDocumentMoniker": "MicroServiceMembership\\MicroServiceMembership.csproj",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\MicroServiceMembership.csproj",
+              "RelativeToolTip": "MicroServiceMembership\\MicroServiceMembership.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T18:53:52.452Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MicroServiceMembership.Application.csproj",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
-              "RelativeToolTip": "MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T13:47:21.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MicroServiceMembership.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
-              "RelativeToolTip": "MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T13:46:43.921Z"
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MicroServiceMembership\\appsettings.Development.json",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\appsettings.Development.json",
+              "RelativeToolTip": "MicroServiceMembership\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T18:53:28.903Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroServiceMembership\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroServiceMembership\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T18:53:22.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroServiceMembership\\appsettings.json",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\appsettings.json",
+              "RelativeToolTip": "MicroServiceMembership\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T13:39:11.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembershipValidationRules.cs",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
+              "RelativeToolTip": "MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:43:10.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Services\\MembershipService.cs",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Application\\Services\\MembershipService.cs",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Services\\MembershipService.cs",
+              "RelativeToolTip": "MicroServiceMembership.Application\\Services\\MembershipService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:38:34.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MembershipRepository.cs",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
+              "RelativeToolTip": "MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:46:23.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMembershipRepository.cs",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
+              "RelativeToolTip": "MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:42:13.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MembershipDiscipline.cs",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
+              "RelativeToolTip": "MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:07:27.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Membership.cs",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\Membership.cs",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Entities\\Membership.cs",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\Membership.cs",
+              "RelativeToolTip": "MicroServiceMembership.Domain\\Entities\\Membership.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:28:04.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMembershipService.cs",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
+              "RelativeToolTip": "MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:37:51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\Program.cs",
               "RelativeDocumentMoniker": "MicroServiceMembership\\Program.cs",
@@ -143,32 +248,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MembershipRepository.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
-              "RelativeToolTip": "MicroServiceMembership.Infrastructure\\Persistence\\MembershipRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:46:23.159Z"
+              "DocumentIndex": 13,
+              "Title": "MicroServiceMembership.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
+              "RelativeToolTip": "MicroServiceMembership.Infrastructure\\MicroServiceMembership.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T13:46:43.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MembershipService.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Services\\MembershipService.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Application\\Services\\MembershipService.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Services\\MembershipService.cs",
-              "RelativeToolTip": "MicroServiceMembership.Application\\Services\\MembershipService.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwEUAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:38:34.567Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "MicroServiceMembership.Application.csproj",
+              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
+              "RelativeDocumentMoniker": "MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
+              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
+              "RelativeToolTip": "MicroServiceMembership.Application\\MicroServiceMembership.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T13:47:21.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "MicroServiceMembership.csproj",
               "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\MicroServiceMembership.csproj",
               "RelativeDocumentMoniker": "MicroServiceMembership\\MicroServiceMembership.csproj",
@@ -180,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "MicroServiceMembership\\Controllers\\WeatherForecastController.cs",
@@ -192,91 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\appsettings.json",
-              "RelativeDocumentMoniker": "MicroServiceMembership\\appsettings.json",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership\\appsettings.json",
-              "RelativeToolTip": "MicroServiceMembership\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-14T13:39:11.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MembershipValidationRules.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
-              "RelativeToolTip": "MicroServiceMembership.Domain\\Rules\\MembershipValidationRules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:43:10.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IMembershipRepository.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
-              "RelativeToolTip": "MicroServiceMembership.Domain\\Ports\\IMembershipRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:42:13.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MmebershipModuleServiceCollectionExtension.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\DependencyInjection\\MmebershipModuleServiceCollectionExtension.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Infrastructure\\DependencyInjection\\MmebershipModuleServiceCollectionExtension.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Infrastructure\\DependencyInjection\\MmebershipModuleServiceCollectionExtension.cs",
-              "RelativeToolTip": "MicroServiceMembership.Infrastructure\\DependencyInjection\\MmebershipModuleServiceCollectionExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:44:49.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MembershipDiscipline.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
-              "RelativeToolTip": "MicroServiceMembership.Domain\\Entities\\MembershipDiscipline.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:07:27.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Membership.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\Membership.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\Entities\\Membership.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\Entities\\Membership.cs",
-              "RelativeToolTip": "MicroServiceMembership.Domain\\Entities\\Membership.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:28:04.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IMembershipService.cs",
-              "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
-              "RelativeDocumentMoniker": "MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
-              "ToolTip": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
-              "RelativeToolTip": "MicroServiceMembership.Application\\Interfaces\\IMembershipService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:37:51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Result.cs",
               "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Application\\Common\\Result.cs",
               "RelativeDocumentMoniker": "MicroServiceMembership.Application\\Common\\Result.cs",
@@ -288,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MicroServiceMembership.Domain.csproj",
               "DocumentMoniker": "D:\\Arquitectura de Soft\\MicroServiceMembership\\MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj",
               "RelativeDocumentMoniker": "MicroServiceMembership.Domain\\MicroServiceMembership.Domain.csproj",
@@ -297,6 +317,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-14T12:28:57.826Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             }
           ]
         }

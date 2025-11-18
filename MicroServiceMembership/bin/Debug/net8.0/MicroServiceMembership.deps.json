@@ -99,15 +99,17 @@
           "MicroServiceMembership.Domain": "1.0.0"
         },
         "runtime": {
-          "MicroserviceMembership.Application.dll": {
-            "fileVersion": "0.0.0.0"
+          "MicroServiceMembership.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
       "MicroServiceMembership.Domain/1.0.0": {
         "runtime": {
-          "MicroserviceMembership.Domain.dll": {
-            "fileVersion": "0.0.0.0"
+          "MicroServiceMembership.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },

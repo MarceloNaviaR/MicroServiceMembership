@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v8.0": {
       "MicroServiceMembership.Application/1.0.0": {
         "dependencies": {
-          "MicroServiceMembership.Domain": "1.0.0.0"
+          "MicroServiceMembership.Domain": "1.0.0"
         },
         "runtime": {
           "MicroServiceMembership.Application.dll": {}
         }
       },
-      "MicroServiceMembership.Domain/1.0.0.0": {
+      "MicroServiceMembership.Domain/1.0.0": {
         "runtime": {
           "MicroServiceMembership.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -30,8 +30,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MicroServiceMembership.Domain/1.0.0.0": {
-      "type": "reference",
+    "MicroServiceMembership.Domain/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }
