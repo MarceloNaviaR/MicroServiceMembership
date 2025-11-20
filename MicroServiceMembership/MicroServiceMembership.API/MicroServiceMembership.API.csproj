@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MicroServiceMembership.Application\MicroServiceMembership.Application.csproj" />
+    <ProjectReference Include="..\MicroServiceMembership.Domain\MicroServiceMembership.Domain.csproj" />
+    <ProjectReference Include="..\MicroServiceMembership.Infrastructure\MicroServiceMembership.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

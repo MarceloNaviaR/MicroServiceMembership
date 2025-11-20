@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<!-- *** ESTA SECCIÓN ES LA SOLUCIÓN *** -->
+	<!-- Si ya existe un ItemGroup, añade las líneas dentro. Si no, añade el bloque completo. -->
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.1.35" />
+		<PackageReference Include="Npgsql" Version="8.0.3" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+	</ItemGroup>
+
+	<!-- Esta sección contiene las referencias a los otros proyectos -->
+	<!-- Asegúrate de que también esté presente -->
+	<ItemGroup>
+		<ProjectReference Include="..\MicroserviceMembership.Application\MicroserviceMembership.Application.csproj" />
+		<ProjectReference Include="..\MicroserviceMembership.Domain\MicroserviceMembership.Domain.csproj" />
+	</ItemGroup>
+
+</Project>
